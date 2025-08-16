@@ -4,4 +4,4 @@ I use in this project tow important modules in python for build this project "Ra
 
 ### Random : for update the position of the food in the screen. 
 ### Curses : for run the game in the terminal. 
-#### All the description is in the snake.py
+##### All the description is in the snake.py
